@@ -1,0 +1,2 @@
+# knowledge_acquirement_system
+知識獲得システムに関するあれこれ。主に教師なし学習系
